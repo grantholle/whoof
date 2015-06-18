@@ -1,6 +1,6 @@
 {
   "name": "whoof",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Whoof",
   "main": "index.js",
   "scripts": {
